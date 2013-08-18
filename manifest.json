@@ -1,0 +1,18 @@
+{
+  "name": "Shortcut Windows Merger",
+  "version": "1.0",
+  "description": "Merges all of the browser's windows by typing Alt+M",
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "commands": {
+    "merge-shortcut": {
+      "suggested_key": { "default": "Alt+M" },
+      "description": "Toggle to merge all windows."
+    }
+  }
+,
+  "permissions": ["tabs"],
+  "manifest_version": 2
+}
