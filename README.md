@@ -1,4 +1,4 @@
 chrome_merger
 =============
 
-Extension for merging all chrome windows with a shortcut, Alt + M.
+Extension for merging all chrome windows with a shortcut, Alt + M(erge).
